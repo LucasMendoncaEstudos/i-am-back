@@ -1,5 +1,5 @@
 import random
-from validador import obter_palpite, 
+from validador import obter_palpite
 
 numero_secreto = random.randint(1, 100)
 
